@@ -64,8 +64,6 @@ int main() {
 			int64_t dv = du + w;
 			q.push({dv, v});
 		}
-
-		cerr << endl;
 	}
 
 	return 0;
